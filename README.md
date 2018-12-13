@@ -1,2 +1,2 @@
-# gocd-test
-testing gocd CI
+# droneio-test
+testing drone.io
