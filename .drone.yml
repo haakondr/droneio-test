@@ -7,4 +7,3 @@ steps:
   commands:
   - cd frontend
   - npm install
-  - npm test
